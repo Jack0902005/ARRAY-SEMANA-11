@@ -1,0 +1,7 @@
+D:\Semana 11\Semana 11\obj\Debug\Semana 11.csproj.AssemblyReference.cache
+D:\Semana 11\Semana 11\obj\Debug\Semana 11.csproj.CoreCompileInputs.cache
+D:\Semana 11\Semana 11\bin\Debug\Semana 11.exe.config
+D:\Semana 11\Semana 11\bin\Debug\Semana 11.exe
+D:\Semana 11\Semana 11\bin\Debug\Semana 11.pdb
+D:\Semana 11\Semana 11\obj\Debug\Semana 11.exe
+D:\Semana 11\Semana 11\obj\Debug\Semana 11.pdb
